@@ -1,0 +1,11 @@
+name = "cw-mail-demo"
+main = "src/index.ts"
+compatibility_date = "2022-08-22"
+
+[vars]
+SENDER_NAME = ""
+SENDER_EMAIL = ""
+SEND_TO_EMAIL = ""
+SEND_TO_NAME = ""
+REPLY_TO_EMAIL = ""
+REPLY_TO_NAME = ""
